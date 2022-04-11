@@ -1,0 +1,56 @@
+/*@font-face{
+	src: url("resources/fonts/astronboy.ttf");
+}*/
+
+.player1name{
+	-fx-padding: 10px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+    -fx-text-fill: #956e23;
+}
+
+.arcadechessfont{
+	-fx-font-size: 30px;
+
+}
+
+.boardScene{
+	-fx-background-color: #828282;
+}
+
+.startScene{
+	-fx-background-color: #828282;
+}
+
+.powerUpLabels{
+	-fx-padding: 10px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+    -fx-font-size: 18px;
+}
+
+.powerUpButtons{
+	-fx-padding: 10px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+    -fx-font-size: 16px;
+}
+
+.gameStats{
+	-fx-padding: 10px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+     -fx-font-family: 'Astron Boy Rg';
+    -fx-font-size: 16px;
+}
+
+.playerNames{
+	-fx-padding: 10px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+    -fx-text-fill: #956e23;
+    -fx-font-family: 'Astron Boy Rg';
+    -fx-font-size: 20px;
+}
+
+/* #956e23; */
